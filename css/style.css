@@ -1,0 +1,15 @@
+div.color-container.red {
+    background-color: rgb(246, 80, 88);
+}
+
+div.color-container.yellow {
+    background-color: rgba(251, 222, 68);
+}
+
+div.color-container.grey {
+    background-color: rgba(95, 137, 157);
+}
+
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Koulen', cursive;
+font-family: 'Montserrat', sans-serif; */
