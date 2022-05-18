@@ -10,6 +10,10 @@ div.color-container.grey {
     background-color: rgba(95, 137, 157);
 }
 
+.font-title {
+    text-decoration: underline;
+}
+
 /* font-family: 'Amatic SC', cursive;
 font-family: 'Koulen', cursive;
 font-family: 'Montserrat', sans-serif; */
